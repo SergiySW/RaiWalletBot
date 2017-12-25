@@ -1,6 +1,10 @@
 # RaiWalletBot
 [@RaiWalletBot](https://t.me/RaiWalletBot) — Open source Telegram bot for [RaiBlocks](https://github.com/clemahieu/raiblocks) cryptocurrency   
 
+# Basic usage
+
+![Basica manual](https://github.com/NaelsonDouglas/RaiWalletBot/blob/master/Manual/Manual.jpg)
+
 # Python requirements
 **Required non-default Python libraries**   
 python-urllib3   
